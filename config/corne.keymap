@@ -45,14 +45,14 @@
             timeout-ms = <50>;
             key-positions = <15 16>;
             bindings = <&kp LGUI>;
-            layers = <DEF 0 1>;
+            layers = <0 1>;
         };
 
         combo_win_r {
             timeout-ms = <50>;
             key-positions = <19 20>;
             bindings = <&kp RGUI>;
-            layers = <DEF 0 1>;
+            layers = <0 1>;
         };
 
         combo_alt_l {
